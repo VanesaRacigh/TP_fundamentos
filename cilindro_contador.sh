@@ -1,4 +1,4 @@
-	#********************************** Programa para contar moléculas de agua  ********************************
+# *************************** Programa para contar iones en el interior de la proteína  ********************************
 
 workdir="/home/vanesa/mutaciones/nuevas/resultados/new_D51_53N/analisis/cilindro_cont/numero_de_iones" #path del directorio con la carpeta del programa
 mkdir $workdir
